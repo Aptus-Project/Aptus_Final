@@ -31,11 +31,6 @@ APTUS is an AI-driven recruitment and assessment automation platform designed to
    - Conducts virtual AI interviews with candidates.
    - Ranks candidates based on feedback and analytics.
 
-## Implementation Plan
-
-- **Flexibility in Timelines**: Adjusts for delayed deployment and prioritizes continuous improvement.
-- **High-Level Implementation**: Regular communication with beta users for feedback and iterative updates.
-
 ## Conclusion
 
 APTUS aims to revolutionize the recruitment process by leveraging AI to provide a seamless, efficient, and unbiased hiring experience. With personalized assessments, virtual AI interviews, and comprehensive feedback, APTUS addresses the critical challenges faced by both candidates and recruiters.
